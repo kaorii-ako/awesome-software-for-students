@@ -108,6 +108,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Whatsapp](https://www.whatsapp.com/) - Freeware and cross-platform messaging and Voice over IP service owned by Facebook.
 
 ## Flashcards
+- [Shiori](https://shiori-v1.vercel.app) ⭐ - Free AI study companion. Google Classroom sync, Gemini AI plans, SRS flashcards (like Anki), GPA calculator, Pomodoro, MCP server for Claude Code. Open source, MIT. ([GitHub](https://github.com/kaorii-ako/Shiori-v1))
 * [Quizlet](https://quizlet.com) ⭐ - A mobile and web-based study application that allows students to study information using flashcards (audio and images) and games, which are optional and automatically generated.
 * [Anki](https://apps.ankiweb.net/) - A cross plataform software with spaced repetition system.
 
